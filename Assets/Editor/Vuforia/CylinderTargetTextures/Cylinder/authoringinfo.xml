@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VuforiaUnityInfo version="7.0">
     <TargetSet version="5.0" toolVersion="2.7.4">
-        <CylinderTarget name="Tower" version="3.0" targetId="5b2f1512c8bc435d9ebfcf1f6e0b5db2" sideLength="20.000000" topDiameter="8.000000" bottomDiameter="8.000000" sideImage="Tower.Body_scaled.jpg"/>
+        <CylinderTarget name="Tower" version="3.0" targetId="5b2f1512c8bc435d9ebfcf1f6e0b5db2" sideLength="20.000000" topDiameter="8.000000" bottomDiameter="8.000000" sideImage="Tower.Body_scaled.jpg" bottomImage="Tower.Bottom_scaled.jpg"/>
     </TargetSet>
 </VuforiaUnityInfo>

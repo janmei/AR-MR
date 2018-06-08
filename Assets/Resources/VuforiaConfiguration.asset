@@ -8,17 +8,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: -2067402452, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
     vuforiaLicenseKey: AcvRBFT/////AAABGeNTVyQKhkSDqKYb5CCTiu0pEbTTbfzFc5hh0ZRK6+5WxCMsydb2yPMc62/FN1BL2DyuW7sAv64DCMCRkHlv5NhIJ33mC01AkZhnLWjzCwpNrLaF5ezmLjYrCKgbJ6mJMs2aQzA96nmsvpWm2NmRyB6Hbmn2S+o0dXCShzL4SHq0OdEAoHLnw0mZXG7oqbIfsDGiwcMAEp5mvWhZNU2bpooogxlhN8yA2ZiMWOQAKXvl9GabGkpefUrRnY23P9OW6r/VKIhhG5f0tG/id9mB3vZbDDvRlr6c6LL2IzhAFDvBU2U/qjjl5QjQnXAkKvVT+vCACSbdjj1V4cps8phxPdIoIg3PxaQWycNYBaZlbFU/
-    ufoLicenseKey: QWZTbVhRLy8vLy8vQUFBQUtLS3AzcTZUeVVWV2tXaEpMazZsZmFzbU8vejZZUnZ3eFI1NldnNmUvMXlmeGc0aTRaZnVVNDFPeFAzTmRzT2ZwSWJ4K1BnSWJnMjBFU2JEdFdFL0dzU1k1SXQzS0pzSElLaWM2WjNYL1RtR2ZkQ05TcTk3UUQ0OUxkK3QrbVVROGozZXlCQ0ZMK1BLOEh5Tkl1dUJSdk5XZE5wQWdmSGhOVHYwWWt3YzRvb2M2SVdGWjNzdm52NFhmeTNMUyt3UXhZenEwcjYxYjNmaHNEUEdLMHRzSUdseWF4WjQreGZRWTFRZVNiSXRISVV4RHF1Qm1CeXphcC9kczQzYWZLYjhwQkU4L05JYlVXYmFMZ29nTW5nMXF2UzZ0NWtieFIySHF0SWs2YUl5ZlppNEZ1ZEdFK21oRWNRMGJ2WUhmdEJUMlBRVXp2VjdIa2M4VGFzaEVhaWdQRE9zZHZFbUpTOFRObzc5VG1YRFFUUmg=
+    ufoLicenseKey: QVVlUUY4Ny8vLy8vQUFBQUtHV2VRV0ZEREVWdXR3MUxVT2h6T0Q5ZDJ6bCtRMWM2RzBXR2pLbUtkQTZIYWx3OGNnUDdGWjR5dERneU5kWjc1RElVRE1tK0lHS3RXMmc1Vm9xYkpPR2F0RWgyUkhWZThRbEs5N2xQdE5oSDQrMXlNQXY0bGsvSmlHb21CdkpIU3Q1R0pZaTdIUGpHbXpKdGI3c0QzVy9JZGtIdVc2VGxQZlhyN1RzcHFPa1grOXRoZ0UwU2pRS3FnaGxTUmtYdlJUSk9pNW1tQWVVaXo5UWxZanpNZXFaQ01aQXBvaFhSOVRCdGV1dEkxdU1mdGxaVjlXQkxLNGZ0ekp6M1N0V1o1b08ybkwxclh4N2FxclRnYVYrRHhhcEtXb2tmcUVZRGJuZmtyVHhjcDdUOCs2M3QvczFEYWtkUE5YZkF5U2tTSllhbWo5U0xaOUU0ZGxsdUJMRkZVRUpEODVhN1dqTHlKMzR5ZGQzcm1YYXY=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
-    useDelayedLoadingObjectTargets: 0
+    useDelayedLoadingObjectTargets: 1
     cameraDirection: 0
     mirrorVideoBackground: 0
   digitalEyewear:
@@ -27,8 +27,8 @@ MonoBehaviour:
     eyewearType: 1
     stereoFramework: 0
     seeThroughConfiguration: 1
-    viewerName: Generic Cardboard
-    viewerManufacturer: Vuforia
+    viewerName: 
+    viewerManufacturer: 
     useCustomViewer: 0
     customViewer:
       Version: 0
@@ -44,9 +44,9 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
-    - Cylinder
+    - Staffelei
     dataSetsToActivate:
-    - Cylinder
+    - Staffelei
   videoBackground:
     clippingMode: 0
     numDivisions: 2
@@ -58,8 +58,8 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
     trackingMode: 0
-    posePrediction: 1
-    modelCorrectionMode: 1
+    posePrediction: 0
+    modelCorrectionMode: 0
     modelTransformEnabled: 0
     modelTransform: {x: 0, y: 0.1, z: -0.1}
   smartTerrain:

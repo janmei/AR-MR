@@ -1,8 +1,8 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <UnityWSASolutionName>GallARy</UnityWSASolutionName>
-        <UnityWSASolutionDir>C:\Users\Jan\Documents\GallARy\App\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\Jan\Documents\GallARy\</UnityProjectDir>
+        <UnityWSASolutionName>Gallery</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Jan\Documents\Gallery\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Jan\Documents\Gallery\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>

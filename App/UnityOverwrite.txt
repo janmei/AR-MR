@@ -5,18 +5,18 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-GallARy.sln: modified
-GallARy\App.cs: 12B3932E0FFC970F656981ED450C18E1
-GallARy\GallARy.csproj: 9034187D675E68F4E5BE1CC7AD7E467E
-GallARy\GallARy.csproj.user: modified
-GallARy\Package.appxmanifest: FB8A4E31128E3B8211D7AA3962F7F11C
-GallARy\project.json: 1D02BC64BAC0D041019673A1C4C51737
-GallARy\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
-GallARy\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-GallARy\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-GallARy\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-GallARy\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-GallARy\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-GallARy\obj\x86\Release\GallARy.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
-GallARy\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+Gallery.sln: modified
+Gallery\App.cs: 627BA9D887A6E46A94312A36E65D5533
+Gallery\Gallery.csproj: 015AEF122BB09C8B3F2CA83B7F991C54
+Gallery\Gallery.csproj.user: modified
+Gallery\Package.appxmanifest: E10AAB2C6F01F9C935F7D7EB2AA9269C
+Gallery\project.json: 1D02BC64BAC0D041019673A1C4C51737
+Gallery\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
+Gallery\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+Gallery\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+Gallery\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+Gallery\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+Gallery\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+Gallery\obj\x86\Release\Gallery.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
+Gallery\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737

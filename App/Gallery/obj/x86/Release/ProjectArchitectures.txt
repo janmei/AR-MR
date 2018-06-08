@@ -1,0 +1,2 @@
+C:\Users\Jan\Documents\Gallery\App\Gallery\Gallery.csproj;x86
+C:\Users\Jan\Documents\Gallery\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

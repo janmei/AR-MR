@@ -1,2 +1,0 @@
-C:\Users\Jan\Documents\GallARy\App\GallARy\GallARy.csproj;x86
-C:\Users\Jan\Documents\GallARy\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
